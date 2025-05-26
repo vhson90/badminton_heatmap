@@ -9,7 +9,7 @@ Dự án này tập trung vào việc áp dụng các kỹ thuật xử lý ản
 
 ## Video Demo
 
-[Xem video demo tại đây](https://youtu.be/N5h5xNVd9W4)
+[Xem video youtube demo tại đây](https://youtu.be/N5h5xNVd9W4)
 
 ## Các Thành phần Chính trong Dự án
 
@@ -18,4 +18,4 @@ Dưới đây là mô tả về các file quan trọng trong dự án này:
 * **`heatmap_draw.ipynb`**: Jupyter Notebook chứa mã nguồn và giải thích chi tiết quy trình xử lý để vẽ bản đồ nhiệt (heatmap) cho toàn bộ video đầu vào.
 * **`progress.ipynb`**: Jupyter Notebook trình bày từng bước cụ thể trong quá trình xử lý một khung hình (frame) đơn lẻ, từ phát hiện sân, nhận diện người chơi, ước tính tư thế cho đến khi tạo ra dữ liệu vị trí cho heatmap.
 * **`demo1.png`**: Một file ảnh mẫu được sử dụng trong `progress.ipynb` để minh họa và kiểm tra các bước xử lý trên một khung hình tĩnh.
-* **`demo.mp4`**: Một file video mẫu được sử dụng trong `heatmap_draw.ipynb` để thực hiện phân tích và tạo ra bản đồ nhiệt tổng thể cho toàn bộ video.
+* **`demo.mp4`**: Một file video mẫu được sử dụng trong `heatmap_draw.ipynb` để thực hiện phân tích và tạo ra bản đồ nhiệt tổng thể cho toàn bộ video. (https://drive.google.com/file/d/1UzfV0EVq3df7x3yFp9pGseT6BUHjH0wE/view?usp=sharing)
