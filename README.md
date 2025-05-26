@@ -9,7 +9,8 @@ Dự án này tập trung vào việc áp dụng các kỹ thuật xử lý ản
 
 ## Video Demo
 
-[Xem video youtube demo tại đây](https://youtu.be/N5h5xNVd9W4)
+[Video giới thiệu đề tài](https://youtu.be/N5h5xNVd9W4)
+[Video ngắn demo toàn bộ quá trình vẽ heatmap] (https://youtu.be/ah2owUbRXNk)
 
 ## Các Thành phần Chính trong Dự án
 
